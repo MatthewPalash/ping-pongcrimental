@@ -1,0 +1,17 @@
+{
+  "vertices": 224,
+  "polygons": 218,
+  "triangles": 444,
+  "nonmanifold_edges": 0,
+  "texture": [
+    1448,
+    1086
+  ],
+  "dimensions_m": [
+    0.15803,
+    0.2597,
+    0.02892
+  ],
+  "meshes": 1,
+  "materials": 1
+}

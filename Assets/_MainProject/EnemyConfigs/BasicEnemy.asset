@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0f4cb8b654876f4c9487f053a1656c4, type: 3}
+  m_Name: BasicEnemy
+  m_EditorClassIdentifier: Assembly-CSharp::TennisPrototype.EnemyConfig
+  displayName: "\u0414\u0418\u041A\u0418\u0419 \u041A\u0410\u0417\u0410\u041A"
+  maxHealth: 5
+  damagePerTableHit: 1
+  attackDamage: 4
+  strongHitEnabled: 1
+  strongHitChance: 10
+  strongHitSpeedMultiplier: 2
+  hurtDuration: 0.5
+  wonDuration: 1
+  visualTint: {r: 1, g: 1, b: 1, a: 1}
+  stateTransitionDuration: 0.1
+  hurtFlashDuration: 0.1
+  hurtFlashIntensity: 4
+  hurtKnockbackDuration: 0.32
+  hurtKnockbackDistance: 0.18
+  deathKnockbackDuration: 0.42
+  deathKnockbackDistance: 2
+  paddleFollowSpeed: 10
+  paddleSwingAngle: 20
+  paddleSwingRecovery: 12

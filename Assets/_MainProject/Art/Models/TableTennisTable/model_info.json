@@ -1,0 +1,27 @@
+{
+  "table_length_m": 2.74,
+  "table_width_m": 1.525,
+  "playing_height_m": 0.76,
+  "net_height_m": 0.1525,
+  "triangles": 624,
+  "meshes": 4,
+  "materials": 4,
+  "textures": {
+    "//Tabletop_BaseColor_4K.png": [
+      4096,
+      2280
+    ],
+    "//Metal_BaseColor_2K.png": [
+      2048,
+      2048
+    ],
+    "//Trim_BaseColor_1K.png": [
+      1024,
+      1024
+    ],
+    "//Net_BaseColor.png": [
+      4096,
+      326
+    ]
+  }
+}
